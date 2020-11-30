@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xml>
+	<ModInfo>
+		<Name value="Change Trader Open and Close Time"/>
+		<Description value="Each trader can set open and close time" />
+		<Author value="arramus (based on BloodiestCODY's Always Open Traders Mod" />
+		<Version value="A19" />
+		<Website value="https://community.7daystodie.com/topic/22758-change-trader-open-and-close-time-a19/"/>
+	</ModInfo>
+</xml>
